@@ -4,7 +4,7 @@ A full-stack web application to manage Data using the **MERN stack**.
 
 ## 🚀 Features
 
-- Functins to add/edit/delete data.
+- Functions to add/edit/delete data.
 - Responsive UI
 
 ## 🛠️ Tech Stack
