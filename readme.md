@@ -15,5 +15,5 @@ A full-stack web application to manage Data using the **MERN stack**.
 - **Others**: Git, Postman, VS Code
 
 ## .env
-- MONGO_URL="mongodb+srv://abhayp:Abhay%40123@minef.vgnx8bk.mongodb.net/mern"
+- MONGO_URL="your connecting String"
 - PORT=8000
