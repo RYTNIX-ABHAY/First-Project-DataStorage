@@ -1,0 +1,31 @@
+.adduser{
+    background-color:white !important;
+    width: 25%;
+    margin: 50px auto;
+    padding: 40px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.06) ;
+}
+.addUserForm .inputGroup{
+   width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.addUserForm .inputGroup label{
+    margin-top: 10px;
+}
+.addUserForm .inputGroup input{
+    margin-bottom: 10px;
+    padding: 8px;
+}
+.adduser h3{
+    margin-top: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: darkcyan;
+    text-transform: uppercase;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7) ;
+}
+.inputGroup button{
+    margin-top: 5px;
+}

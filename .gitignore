@@ -1,0 +1,12 @@
+# === Client Side ===
+client/node_modules/
+client/dist/
+
+# === Server Side ===
+server/node_modules/
+server/.env
+
+# === VS Code & OS files ===
+.vscode/
+.DS_Store
+Thumbs.db
