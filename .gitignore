@@ -1,4 +1,5 @@
 # === Client Side ===
+client/.parcel-cache
 client/node_modules/
 client/dist/
 
